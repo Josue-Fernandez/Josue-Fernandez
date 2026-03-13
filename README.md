@@ -1,4 +1,7 @@
-## Hi there 👋
+##¡Hola! Soy Josué Fernández 👋
+Full Stack Engineer | Mobile Developer | SAP B1 Specialist
+
+Soy un Ingeniero en Computación egresado de la Universidad José Antonio Páez, apasionado por crear soluciones tecnológicas que generen un impacto real. Mi enfoque combina la robustez del backend, la agilidad de las apps móviles y la inteligencia de los datos.
 
 <!--
 **Josue-Fernandez/Josue-Fernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
